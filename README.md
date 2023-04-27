@@ -4,6 +4,9 @@ Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Di
 ## Introduction
 
 ## Environment
+- Python = 3.9.13
+- PyTorch = 1.13.0
+- NumPy = 1.21.5
 
 ## Usage
 
