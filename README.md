@@ -6,9 +6,9 @@ Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Di
 
 ## Introduction
 
-<div align="center">
+<div align = "center">
     <a href="./">
-        <img src="./figure/DiffAR.svg" width = "100%"/>
+        <img src="./Figure/DiffAR.svg" width = "100%"/>
     </a>
 </div>
 
@@ -18,5 +18,21 @@ Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Di
 - NumPy = 1.21.5
 
 ## Usage
+
+'''
+python ACDM/train.py
+'''
+
+'''
+python ACDM/evaluate.py
+'''
+
+'''
+python ACDM/augment.py
+'''
+
+'''
+python EnsembleClassifier/evaluate.py
+'''
 
 ## Citation
