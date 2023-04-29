@@ -5,7 +5,7 @@ By [Shuokang Huang](https://github.com/huangshk), [Po-Yu Chen](https://github.co
 Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Diffusion Model for Temporal-augmented Human Activity Recognition"
 
 ## Introduction
-<image src="./figure/DiffAR.pdf"/>
+<embed src="./figure/DiffAR.pdf" type="application/pdf">
 
 ## Environment
 - Python = 3.9.13
