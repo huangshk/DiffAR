@@ -5,8 +5,12 @@ By [Shuokang Huang](https://github.com/huangshk), [Po-Yu Chen](https://github.co
 Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Diffusion Model for Temporal-augmented Human Activity Recognition"
 
 ## Introduction
-<img src="./figure/DiffAR.svg" width = "80%"/>
-<img src="./figure/ACDM.svg" width = "80%"/>
+
+<div align="center">
+    <a href="./">
+        <img src="./figure/DiffAR.svg" width = "100%"/>
+    </a>
+</div>
 
 ## Environment
 - Python = 3.9.13
