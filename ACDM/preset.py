@@ -10,8 +10,8 @@ preset = {
     "path": {
         "data": "./Data/data_x.npy",                    # path raw CSI
         "index": "./Data/index_train_val_test.json",    # path of preset index to split dataset
-        "save": "./ACDM/Result/",                            # path to save models and augmented data
-        "model": "./ACDM/Result/weight_0.pt",              # path to load models for evaluation
+        "save": "./ACDM/Result/",                       # path to save models and augmented data
+        "model": "./ACDM/Result/weight_0.pt",           # path to load models for evaluation
     },
     #
     ##
