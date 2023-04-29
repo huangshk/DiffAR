@@ -13,26 +13,35 @@ Official implementation of our IJCAI 2023 paper "DiffAR: Adaptive Conditional Di
 </div>
 
 ## Environment
+
 - Python = 3.9.13
 - PyTorch = 1.13.0
 - NumPy = 1.21.5
 
+To install all the required packages, please run `pip install -r requirements.txt`.
+
 ## Usage
 
-'''
+### Dataset
+
+### ACDM: Training and Evaluation
+
+```
 python ACDM/train.py
-'''
+```
 
-'''
+```
 python ACDM/evaluate.py
-'''
+```
 
-'''
+```
 python ACDM/augment.py
-'''
+```
 
-'''
+### Ensemble Classifier: Training and Evaluation
+
+```
 python EnsembleClassifier/evaluate.py
-'''
+```
 
 ## Citation
