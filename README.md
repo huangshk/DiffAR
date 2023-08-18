@@ -1,8 +1,8 @@
 # DiffAR: Adaptive Conditional Diffusion Model for Temporal-augmented Human Activity Recognition
 
-By [Shuokang Huang](https://github.com/huangshk), [Po-Yu Chen](https://github.com/bryan107) and [Julie A. McCann](https://wp.doc.ic.ac.uk/aese/people/julie-a-mccann/).
+By [Shuokang Huang](https://github.com/huangshk), [Po-Yu Chen](https://github.com/bryan107) and [Julie A. McCann](https://wp.doc.ic.ac.uk/aese/people/julie-a-mccann/)
 
-Official Implementation of [DiffAR: Adaptive Conditional Diffusion Model for Temporal-augmented Human Activity Recognition](https://www.ijcai.org/proceedings/2023/0424.pdf) (IJCAI 2023).
+Official Implementation of [DiffAR: Adaptive Conditional Diffusion Model for Temporal-augmented Human Activity Recognition (IJCAI 2023)](https://www.ijcai.org/proceedings/2023/0424.pdf)
 
 Full Paper with Appendix: [DiffAR_Full_Paper](DiffAR_Full_Paper.pdf)
 
